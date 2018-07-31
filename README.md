@@ -65,6 +65,6 @@ notes for ad-ml
 [12] Dalvi, Nilesh, et al. "Adversarial classification." Tenth ACM SIGKDD International Conference on Knowledge Discovery and Data MiningACM, 2004:99-108.
 [13] Biggio, Battista, G. Fumera, and F. Roli. "Adversarial Pattern Classification Using Multiple Classifiers and Randomisation." Joint Iapr International Workshop on Structural, Syntactic, and Statistical Pattern Recognition Springer-Verlag, 2008:500-509.
 [14] Biggio, Battista, G. Fumera, and F. Roli. "Security Evaluation of Pattern Classifiers under Attack." IEEE Transactions on Knowledge & Data Engineering 26.4(2014):984-996.
-[15] Nelson, Blaine, et al. "Exploiting machine learning to subvert your spam filter." Usenix Workshop on Large-Scale Exploits and Emergent ThreatsUSENIX Association, 2008:7.
+[15] Nelson, Blaine, et al. "Exploiting machine learning to subvert your spam filter." Usenix Workshop on Large-Scale Exploits and Emergent ThreatsUSENIX Association, 2008:7
 
 
