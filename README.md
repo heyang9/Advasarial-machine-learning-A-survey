@@ -29,25 +29,45 @@ notes for ad-ml
 2. Scenarios
   GENERAL
   Can Machine Learning Be Secure? [1]
+  
    Adversarial Machine Learning[2]
+   
    Pattern Recognition Systems Under Attack: Design Issues and Research Challenges [3]
+   
   Adversarial Learning[4]
+  
    Evasion attacks against machine learning at test time [5]
+   
    A Framework for Quantitative Security Analysis of Machine Learning [6]
+   
    Understanding the Risk Factors of Learning in Adversarial Environments [7]
+   
    Security Evaluation of Support Vector Machines in Adversarial Environments [8]
+   
   Image Classification （DNN）
+  
    The Limitations of Deep Learning in Adversarial Settings[9]
+   
   Online Learning
+  
    Online Learning with Adversarial Delays [10]
+   
    Online Learning under Delayed Feedback [11]
+   
   Classification
+  
    Adversarial Classification[12]
+   
    Adversarial Pattern Classification Using Multiple Classifiers and Randomisation [13]
+   
    Security evaluation of pattern classifiers under attack[14] 
+   
   Spam Filter/ Malware detection
+  
   Exploiting Machine Learning to Subvert Your Spam Filter[15] 
+  
  Segmentation & Object Detection
+ 
  Defense
  
  Ref:
