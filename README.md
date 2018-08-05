@@ -48,7 +48,7 @@ notes for ad-ml
   Spatially Transformed Adversarial Examples, Chaowei Xiao,ICLR 2018
   
   
-2. Scenarios
+2.  Scenarios
 
   GENERAL
   
