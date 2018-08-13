@@ -1,5 +1,6 @@
 # Advasarial-machine-learning-A-survey
-notes for ad-ml
+
+ notes for ad-ml
 1. Some conference paper
 
   Practical Evasion of a Learning-Based Classifier: A Case Study.Rndic et al, S&P,2014
